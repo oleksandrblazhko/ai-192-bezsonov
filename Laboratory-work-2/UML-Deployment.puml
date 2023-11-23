@@ -1,0 +1,42 @@
+@startuml
+title UML-діаграма
+
+left to right direction
+
+skinparam componentStyle uml1
+
+node "<<Client>>" as dc {
+node "<<Application>>" {
+     node "<<Frontend app part>>" as fwv{
+     node "<<UI interface>>" as fwz
+}
+     node "<<Backend app part>>" as fwx{
+     node "<<HTTP module request>>" as fwi
+     node "<<HTTP module response>>" as fwp
+}
+    }
+}
+
+node "<<Server>>" as dk {
+    node "<<Docker>>" {
+        node "<<Backend app part>>" as xwx{
+            node "<<HTTP module request>>" as xwi
+            node "<<HTTP module response>>" as xwp
+}
+        node "<<Crypt app module>>" as crp{
+            node "<<Byte Converter>>" as cri
+            node "<<Byte Crypter>>" as crn
+            node "<<ByteToImage Crypter>>" as cry
+}
+    }
+}
+
+fwz -- fwi
+fwp -- fwz
+fwi -- xwi
+xwi -- cri
+cri -- crn
+crn -- cry
+cry -- xwp
+xwp -- fwp
+@enduml
