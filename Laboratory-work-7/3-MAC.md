@@ -25,5 +25,7 @@
 
 8. Від імені нового користувача перевірте роботу механізму повноважного керування, виконавши операції SELECT, INSERT, UPDATE, DELETE
 
-![6](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/b5371eea-6942-4143-b3f6-8d83458cff58)
-![7](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/9f21880b-a2e0-45f0-a920-b0e8600658dc)
+![6](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/36f0ee49-284d-4648-bcc9-539ccaae3796)
+
+
+![7](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/41b3464f-7f77-411c-b0c8-0c8797f2d87f)
