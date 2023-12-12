@@ -40,3 +40,5 @@
 
 ![9](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/659ea55b-29a2-45f9-a0d3-1f3097917602)
 
+![98](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/0c4f4c48-e9e0-4792-8e2d-79a0d956022e)
+
