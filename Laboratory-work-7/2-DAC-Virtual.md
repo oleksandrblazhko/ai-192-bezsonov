@@ -38,4 +38,5 @@
 
 ### Перевірте роботу механізму вибіркового керування, виконавши операції INSERT, UPDATE, DELETE до віртуальної таблиці.
 
-![7](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/00740515-3c39-46fd-8ddf-fefda49ea9c1)
+![9](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/659ea55b-29a2-45f9-a0d3-1f3097917602)
+
