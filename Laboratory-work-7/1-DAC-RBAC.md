@@ -20,7 +20,8 @@ PostgreSQL вже було встановлено.
 
 Було створено користувача bezsonov з паролем '1234' командою CREATE USER bezsonov WITH PASSWORD '1234'. Командою \du перевірено наявність створеного користувача
 
-![3](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/0651d30f-c119-4060-955d-bc971e2a355a)
+![3](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/af6d3736-ae63-4b26-ba0e-2cd1a0d4c8b1)
+
 
 
 ## Крок 4
@@ -28,6 +29,8 @@ PostgreSQL вже було встановлено.
 ### Створіть роль в СКБД PostgreSQL (назва співпадає з вашим прізвищем латинськими літерами) і надайте новому користувачеві можливість наслідувати цю роль.
 
 Роль bezsonov було створено автоматично після створення користувача
+
+![s](https://github.com/oleksandrblazhko/ai-192-bezsonov/assets/79146520/372ebb19-f6c0-4eaa-9848-1f37e48a65dd)
 
 ## Крок 5
 
